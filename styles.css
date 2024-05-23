@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.left-side{
+   margin: 15px 20px;
+}
+
+p{
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.right-side{
+    margin: 15px 20px 0 0;
+    max-width: 700px;
+}
+
+.main-img{
+    width: 350px;
+}
+
+.title {
+    font-weight: lighter;
+    margin-bottom: 10px;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.breadbrumb{
+    color: #565959;
+}
+
+.author-name{
+    color: #007185;
+}
+
+.ratings-stars{
+    width: 120px;
+    margin: 0 0 10px 0 
+}
